@@ -125,15 +125,19 @@ button {
 }
 
 .rowheight {
-  height: 100px;
+  height: 75px;
+
 }
 
+.errorrowht {
+  min-height: 25px;
+}
 
 
 /* verification mail page */
 
 .verifymail {
-  color: red;
+  color: #fff;
 }
 
 .vbtn {
